@@ -1,0 +1,2 @@
+# diamond
+Configuration Management System
